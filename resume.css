@@ -1,12 +1,10 @@
-head {
-	
-
-}
 
 body {
 
 	font-family: "Courier New", Courier, monospace;
 	text-align: center;
+	margin-right: 300px;
+	margin-left: 300px;
 }
 
 p {
@@ -20,6 +18,11 @@ p2 {
 	font-size: 25px;
 }
 
-ul {
-	list-style-type:none
+dl {
+	list-style-type:none;
+
+}
+
+dd {
+	font-size: 15px;	
 }
